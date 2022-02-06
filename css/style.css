@@ -1,0 +1,141 @@
+@import "null.css";
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,700&display=swap);
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap);
+
+
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+
+body {
+	font-size: 40px;
+	font-family: "Oswald";
+	font-weight: 200;
+	font-style: normal;
+	text-align: justify;
+	width: 1600px;
+	text-indent: 50px;
+}
+
+p.glav {
+	color: rgb(235, 8, 197);
+	margin: 20px 0 30px 700px;
+}
+
+
+h1 {
+	font-size: 65px;
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: italic;
+	text-shadow: 15px 10px 20px rgb(6, 160, 231);
+	text-align: center;
+	width: 1400px;
+	margin: 0 0 30px 150px;
+}
+
+.moneti {
+	margin: 10px 0 20px 400px;
+}
+
+h3{
+	font-size: 45px;
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: italic;
+	text-shadow: 10px 14px 20px rgb(6, 245, 6);
+	width: 1400px;
+	text-align: center;
+	margin: 50px 0 20px 150px;
+}
+
+h4{
+	font-size: 45px;
+	color: red;
+	font-family: "Oswald";
+	font-weight: 700;
+	font-style: normal;
+	text-align: center;
+	width: 1400px;
+	margin: 0 0 30px 150px;
+}
+
+.dom {
+	margin: 0 0 40px 600px;
+}
+
+.abz{
+	height: 200px;
+	overflow: scroll;
+}
+
+.old {
+	width: 800px;
+	margin: 20px 450px;
+	padding: 40px;
+	text-decoration: underline;
+	line-height: 45px;
+}
+
+.vozvrat {
+	color: rgb(11, 80, 57);
+}
+
+.vozvrat,
+.abz {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.run {
+	display: none;
+}
+
+.not {
+	color: blue;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.ne {
+	color: rgb(177, 6, 177);
+	font-size: 25px;
+	font-weight: 600;
+	margin: 0 0 0 300px;
+	letter-spacing: normal;
+}
+
+.bel-zp,
+.nalog {
+	color: rgb(49, 238, 11) ;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+ul {
+	font-size: 35px;
+	letter-spacing: 10px;
+	line-height: 50px;
+	margin: 40px 0 20px 200px;
+}
+
+.perehod {
+	color: rgb(255, 0, 76);
+	font-size: 40px;
+	font-weight: 600;
+	margin: 0 0 70px 0;
+	display:inline-block;
+}
+
+footer {
+	font-size: 30px;
+	color: rgb(142, 5, 196);
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
